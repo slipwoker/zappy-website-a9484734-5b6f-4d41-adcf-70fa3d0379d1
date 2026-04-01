@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות תחפושות פורים המובילה ברשת! תחפושות ואביזרים לפורים לילדים ולמבוגרים במחירים מטורפים. מגוון עצום, משלוח מהיר, ופורים שלא תשכחו. הזמינו עכשיו!
+
+### השראה לפורים
+https://example.com/inspiration
+מחפשים השראה לתחפושת פורים מושלמת? גלו עשרות רעיונות יצירתיים לתחפושות פורים לילדים ולמשפחות שלמות. תנו לדמיון להוביל ולחגיגה להתחיל!
+
+### אודות
+https://example.com/about
+בי מגניב נולדה מתוך אהבה אמיתית לפורים ולשמחה. גלו מי אנחנו, מה מניע אותנו, ולמה אלפי לקוחות בוחרים בנו לתחפושות ואביזרים לפורים כל שנה מחדש.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם צוות בי מגניב וקבלו עזרה בבחירת התחפושת המושלמת לפורים. שירות מהיר, אנושי ואכפתי — כי כל לקוח אצלנו הוא כוכב בחגיגה!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Bmagniv - בי מגניב
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Bmagniv - בי מגניב
+
+### Category
+https://example.com/category/:slug
+מוצרים - Bmagniv - בי מגניב
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
